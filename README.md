@@ -3,4 +3,4 @@ This is a simple, all-purpose mount for a 40mm Cirque trackpad. It can be used t
 
 It consists of one simple 3D print, and an M2.2 heat-set insert. No more, no less.
 
-![Holder for a 40mm Cirque Trackpad](https://imgur.com/lvL9Ac4)
+![Holder for a 40mm Cirque Trackpad](https://i.imgur.com/lvL9Ac4.jpeg)
